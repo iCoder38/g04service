@@ -1,0 +1,6 @@
+framework module Pods_GoFourService_GoFourServiceUITests {
+  umbrella header "Pods-GoFourService-GoFourServiceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
